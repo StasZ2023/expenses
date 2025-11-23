@@ -1,9 +1,9 @@
 {
   "short_name": "Финансы",
-  "name": "Create React App Sample",
+  "name": "Учёт доходов и расходов.",
   "icons": [
     {
-      "src": "icons8-euro-money-50.png",
+      "src": "oil_8084515.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
